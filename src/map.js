@@ -1,4 +1,4 @@
-export class LeafletMap {
+export class LeafletMap2 {
 
 // export function LeafletMap(mapOptions) {
   constructor(mapOptions) {
