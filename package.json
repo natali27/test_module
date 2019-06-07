@@ -1,0 +1,19 @@
+{
+  "name": "test_module",
+  "version": "1.0.0",
+  "description": "test creating module",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natali27/test_module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natali27/test_module/issues"
+  },
+  "homepage": "https://github.com/natali27/test_module#readme"
+}
