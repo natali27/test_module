@@ -1,6 +1,6 @@
 {
   "name": "test_module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test creating module",
   "main": "map.js",
   "scripts": {
@@ -19,6 +19,5 @@
   "main": "src/map.js",
   "files": [
     "src"
-  ],
-
+  ]
 }
