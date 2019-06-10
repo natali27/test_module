@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/natali27/test_module/issues"
   },
-  "homepage": "https://github.com/natali27/test_module#readme"
+  "homepage": "https://github.com/natali27/test_module#readme",
+  "main": "src/map.js",
+  "files": [
+    "src"
+  ],
+
 }
