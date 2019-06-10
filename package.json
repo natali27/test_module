@@ -1,6 +1,6 @@
 {
   "name": "test_module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test creating module",
   "main": "map.js",
   "scripts": {
